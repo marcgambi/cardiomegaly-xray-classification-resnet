@@ -62,3 +62,7 @@ Model performance was evaluated using classification metrics and diagnostic plot
 ## Notes
 
 This project was developed for educational and research purposes in the biomedical engineering and medical imaging field.
+
+## Dataset
+
+The original chest X-ray images and related clinical metadata are not included in this repository due to privacy and institutional restrictions.
